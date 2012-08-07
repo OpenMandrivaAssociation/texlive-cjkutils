@@ -1,12 +1,12 @@
-# revision 23089
+# revision 26689
 # category TLCore
 # catalog-ctan undef
 # catalog-date undef
 # catalog-license undef
 # catalog-version undef
 Name:		texlive-cjkutils
-Version:	20111103
-Release:	2
+Version:	20120807
+Release:	1
 Summary:	TeXLive cjkutils package
 Group:		Publishing
 URL:		http://tug.org/texlive

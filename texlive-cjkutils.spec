@@ -81,3 +81,22 @@ mkdir -p %{buildroot}%{_datadir}
 cp -fpar texmf %{buildroot}%{_datadir}
 mkdir -p %{buildroot}%{_mandir}/man1
 mv %{buildroot}%{_texmfdir}/doc/man/man1/*.1 %{buildroot}%{_mandir}/man1
+
+
+%changelog
+* Tue Aug 07 2012 Paulo Andrade <pcpa@mandriva.com.br> 20120807-1
++ Revision: 812120
+- Update to latest release.
+
+* Tue Jan 03 2012 Paulo Andrade <pcpa@mandriva.com.br> 20111103-2
++ Revision: 750250
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 20111103-1
++ Revision: 718067
+- texlive-cjkutils
+- texlive-cjkutils
+- texlive-cjkutils
+- texlive-cjkutils
+- texlive-cjkutils
+

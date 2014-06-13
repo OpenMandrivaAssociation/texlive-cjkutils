@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-cjkutils
 Version:	20131013
-Release:	5
+Release:	6
 Summary:	TeXLive cjkutils package
 Group:		Publishing
 URL:		http://tug.org/texlive

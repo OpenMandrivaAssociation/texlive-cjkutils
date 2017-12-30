@@ -1,12 +1,6 @@
-# revision 33736
-# category TLCore
-# catalog-ctan undef
-# catalog-date undef
-# catalog-license undef
-# catalog-version undef
 Name:		texlive-cjkutils
-Version:	20140619
-Release:	4
+Version:	20171102
+Release:	1
 Summary:	TeXLive cjkutils package
 Group:		Publishing
 URL:		http://tug.org/texlive
@@ -32,28 +26,7 @@ TeXLive cjkutils package.
 
 #-----------------------------------------------------------------------
 %files
-%{_texmfdistdir}/hbf2gf/README
-%{_texmfdistdir}/hbf2gf/b5ka12.cfg
-%{_texmfdistdir}/hbf2gf/b5kr12.cfg
-%{_texmfdistdir}/hbf2gf/b5so12.cfg
-%{_texmfdistdir}/hbf2gf/c1so12.cfg
-%{_texmfdistdir}/hbf2gf/c2so12.cfg
-%{_texmfdistdir}/hbf2gf/c3so12.cfg
-%{_texmfdistdir}/hbf2gf/c4so12.cfg
-%{_texmfdistdir}/hbf2gf/c5so12.cfg
-%{_texmfdistdir}/hbf2gf/c6so12.cfg
-%{_texmfdistdir}/hbf2gf/c7so12.cfg
-%{_texmfdistdir}/hbf2gf/csso12.cfg
-%{_texmfdistdir}/hbf2gf/gsfs14.cfg
-%{_texmfdistdir}/hbf2gf/j2so12.cfg
-%{_texmfdistdir}/hbf2gf/jsso12.cfg
-%{_texmfdistdir}/hbf2gf/ksso17.cfg
-%doc %{_texmfdistdir}/doc/bg5conv/bg5conv.pdf
-%doc %{_texmfdistdir}/doc/cef5conv/cef5conv.pdf
-%doc %{_texmfdistdir}/doc/cefconv/cefconv.pdf
-%doc %{_texmfdistdir}/doc/cefsconv/cefsconv.pdf
-%doc %{_texmfdistdir}/doc/extconv/extconv.pdf
-%doc %{_texmfdistdir}/doc/hbf2gf/hbf2gf.pdf
+%{_texmfdistdir}/hbf2gf
 %doc %{_mandir}/man1/bg5conv.1*
 %doc %{_texmfdistdir}/doc/man/man1/bg5conv.man1.pdf
 %doc %{_mandir}/man1/cef5conv.1*
@@ -68,7 +41,6 @@ TeXLive cjkutils package.
 %doc %{_texmfdistdir}/doc/man/man1/hbf2gf.man1.pdf
 %doc %{_mandir}/man1/sjisconv.1*
 %doc %{_texmfdistdir}/doc/man/man1/sjisconv.man1.pdf
-%doc %{_texmfdistdir}/doc/sjisconv/sjisconv.pdf
 
 #-----------------------------------------------------------------------
 %prep

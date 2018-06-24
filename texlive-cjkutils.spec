@@ -1,5 +1,5 @@
 Name:		texlive-cjkutils
-Version:	20171102
+Version:	20180331
 Release:	1
 Summary:	TeXLive cjkutils package
 Group:		Publishing

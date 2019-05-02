@@ -1,6 +1,6 @@
 Name:		texlive-cjkutils
-Version:	20180331
-Release:	2
+Version:	20190327
+Release:	1
 Summary:	TeXLive cjkutils package
 Group:		Publishing
 URL:		http://tug.org/texlive
